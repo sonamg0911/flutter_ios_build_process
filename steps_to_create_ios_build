@@ -18,7 +18,8 @@ The process to make an IOS Build
         3. Or ask the Account Holder or Admin to provide user 
         4. If you are an Account holder, Admin, or App manager you are eligible to create Identifiers, Profile and Certificates
         5. Go to developer.apple.com and follow the steps 4, 5, 6 and download the profile and import it manually
-        
+        6. Xcode Tool -> Product -> Archive to build IOS App
+          
 4. Making Identifiers
     1. In Identifier option -> select App_Id,App option, add the identifier name and bundle id
     
